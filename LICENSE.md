@@ -1,6 +1,6 @@
 # MIT License
 
-Copyright (c) 2019 Raphael Sonabend, Dr Franz Kiraly
+Copyright (c) 2019 Raphael Sonabend
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
