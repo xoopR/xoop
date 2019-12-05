@@ -6,7 +6,7 @@ Authors@R:
              family = "Sonabend",
              role = c("aut","cre"),
              email = "raphael.sonabend.15@ucl.ac.uk",
-             comment = c(ORCID = "0000-0001-9225-4654"))
+             comment = c(ORCID = "0000-0001-9225-4654")))
 Description: Install, attach, and view the xoop family of packages.
 License: MIT + file LICENSE
 Imports:
@@ -17,4 +17,4 @@ LazyData: true
 VignetteBuilder: 
     knitr
 Encoding: UTF-8
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.1
