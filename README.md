@@ -1,6 +1,6 @@
 # xoop
 
-[![Gitter chat](https://badges.gitter.im/xoopR/community)](https://gitter.im/xoopR/community)
+[![Gitter chat](https://badges.gitter.im/xoopR/community.png)](https://gitter.im/xoopR/community)
 
 Convenient way to install, attach, or update the packages in the `xoop` universe.
 
