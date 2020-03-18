@@ -7,7 +7,7 @@ Convenient way to install, attach, or update the packages in the `xoop` universe
 ## Installation
 
 ```R
-remotes::install_github("raphaels1/xoop")
+remotes::install_github("xoopR/xoop")
 ```
 
 ## Packages in xoop
