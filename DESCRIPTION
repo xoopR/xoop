@@ -13,6 +13,8 @@ Imports:
     R62S3,
     set6,
     distr6
+Suggests:
+    knitr
 LazyData: true
 VignetteBuilder: 
     knitr
